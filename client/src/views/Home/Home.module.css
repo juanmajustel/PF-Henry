@@ -1,0 +1,25 @@
+/* 
+
+.container label {
+    color: aqua;
+    margin-left: 15px;
+}
+
+.optionFilter {
+    margin-left: 15px;
+}
+
+.optionOrder {
+    margin-left: 5px;
+}
+.recipesContainer {
+    display: flex;
+    justify-content: center;
+    margin-left: 0px;
+}
+
+.button {
+    cursor: pointer;
+    background-color: salmon;
+    color: aliceblue;
+} */
